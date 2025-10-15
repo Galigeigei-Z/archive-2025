@@ -1,0 +1,17 @@
+Dimension,Ackley_f,Multimodal,Unimodal,All,Algorithm
+D2,0.91,0.91,,,SRBF
+All,0.91,0.91,,,SRBF
+D2,0.56,0.56,,,NDCT_standard_PSO
+All,0.56,0.56,,,NDCT_standard_PSO
+D2,0.38,0.38,,,NDCT_modified_PSO
+All,0.38,0.38,,,NDCT_modified_PSO
+D2,1.0,1.0,,,DYCORS
+All,1.0,1.0,,,DYCORS
+D2,0.96,0.96,,,COBYLA
+All,0.96,0.96,,,COBYLA
+D2,0.6,0.6,,,COBYQA
+All,0.6,0.6,,,COBYQA
+D2,0.0,0.0,,,opt_CUATRO
+All,0.0,0.0,,,opt_CUATRO
+D2,0.47,0.47,,,ENTMOOT
+All,0.47,0.47,,,ENTMOOT

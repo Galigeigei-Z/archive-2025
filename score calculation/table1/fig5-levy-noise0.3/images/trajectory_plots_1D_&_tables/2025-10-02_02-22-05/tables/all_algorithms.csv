@@ -1,0 +1,17 @@
+Dimension,Levy_f,Multimodal,Unimodal,All,Algorithm
+D2,0.91,0.91,,,SRBF
+All,0.91,0.91,,,SRBF
+D2,0.96,0.96,,,NDCT_standard_PSO
+All,0.96,0.96,,,NDCT_standard_PSO
+D2,0.79,0.79,,,NDCT_modified_PSO
+All,0.79,0.79,,,NDCT_modified_PSO
+D2,0.89,0.89,,,DYCORS
+All,0.89,0.89,,,DYCORS
+D2,0.25,0.25,,,COBYLA
+All,0.25,0.25,,,COBYLA
+D2,1.0,1.0,,,COBYQA
+All,1.0,1.0,,,COBYQA
+D2,0.0,0.0,,,opt_CUATRO
+All,0.0,0.0,,,opt_CUATRO
+D2,0.9,0.9,,,ENTMOOT
+All,0.9,0.9,,,ENTMOOT
